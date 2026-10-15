@@ -1,7 +1,5 @@
 ### Hi there, I'm Fathima Samla! 👋
 
-### Hi there, I'm [Your Name]! 👋
-
 **Odoo & Python Developer** dedicated to building, customizing, and scaling robust enterprise ERP solutions. 🚀
 
 ---
@@ -36,26 +34,26 @@
 ---
 
 📫 **How to reach me:** https://www.linkedin.com/in/fathima-samla-mohamed-0a1aa3248?utm_source=share_via&utm_content=profile&utm_medium=member_android | mohammeddasamla@gmail.com
-### 🛠️ Tech Stack & Development Tools
+
 
 ### 🛠️ Tech Stack & Development Tools
 
 <!-- Odoo & Frameworks -->
-<img src="https://shields.io" alt="Odoo" />
-<img src="https://shields.io" alt="Python" />
-<img src="https://shields.io" alt="OWL Framework" />
+![Odoo](https://shields.io)
+![Python](https://shields.io)
+![OWL](https://shields.io)
 
 <!-- Databases & Languages -->
-<img src="https://shields.io" alt="PostgreSQL" />
-<img src="https://shields.io" alt="JavaScript" />
-<img src="https://shields.io" alt="XML" />
+![PostgreSQL](https://shields.io)
+![JavaScript](https://shields.io)
+![XML](https://shields.io)
 
 <!-- DevOps & Environment -->
-<img src="https://shields.io" alt="Docker" />
-<img src="https://shields.io" alt="Linux" />
-<img src="https://shields.io" alt="Git" />
-<img src="https://shields.io" alt="GitHub" />
+![Docker](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 <!-- IDEs -->
-<img src="https://shields.io" alt="PyCharm" />
-<img src="https://shields.io" alt="VS Code" />
+![PyCharm](https://shields.io)
+![VS Code](https://shields.io)
