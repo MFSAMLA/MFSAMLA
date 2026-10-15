@@ -38,22 +38,24 @@
 📫 **How to reach me:** https://www.linkedin.com/in/fathima-samla-mohamed-0a1aa3248?utm_source=share_via&utm_content=profile&utm_medium=member_android | mohammeddasamla@gmail.com
 ### 🛠️ Tech Stack & Development Tools
 
+### 🛠️ Tech Stack & Development Tools
+
 <!-- Odoo & Frameworks -->
-![Odoo](https://shields.io)
-![Python](https://shields.io)
-![OWL Framework](https://shields.io)
+<img src="https://shields.io" alt="Odoo" />
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="OWL Framework" />
 
 <!-- Databases & Languages -->
-![PostgreSQL](https://shields.io)
-![JavaScript](https://shields.io)
-![XML](https://shields.io)
+<img src="https://shields.io" alt="PostgreSQL" />
+<img src="https://shields.io" alt="JavaScript" />
+<img src="https://shields.io" alt="XML" />
 
 <!-- DevOps & Environment -->
-![Docker](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://shields.io" alt="Docker" />
+<img src="https://shields.io" alt="Linux" />
+<img src="https://shields.io" alt="Git" />
+<img src="https://shields.io" alt="GitHub" />
 
 <!-- IDEs -->
-![PyCharm](https://shields.io)
-![VS Code](https://shields.io)
+<img src="https://shields.io" alt="PyCharm" />
+<img src="https://shields.io" alt="VS Code" />
